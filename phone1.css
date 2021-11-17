@@ -1,0 +1,86 @@
+
+.container-sm{
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+
+
+.heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 0.6rem;
+    display: block;
+}
+
+
+.para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.1rem;
+    display: block;
+}
+
+
+.ml1 {
+    font-weight: 50;
+    font-size: 2.9em;
+  }
+
+  
+  .ml1 .letters {
+    display: inline-block;
+    line-height: 0.7em;
+  }
+
+  
+  .ml1 .text-wrapper {
+    padding-top: 0.09em;
+    padding-right: 0.05em;
+    padding-bottom: 0.12em;
+  }
+
+  
+  .ml1 .line {
+    height: 2px;
+    width: 75%;
+  }
+
+  
+  section{
+    margin: 16px 0px;
+}
+
+
+section a{
+    padding: 6px;
+    margin: 1px 3px;
+    border-radius: 3px;
+  }
+
+  
+ .colm img{
+    border-radius: 10px;
+    height: 190px;
+    width: 280px;
+  }
+  
+  .flex{
+     grid-gap: 0.6rem;
+    padding: 6px;
+  }
+
+  
+  .flex .colm {
+     padding: 10px;
+    border-radius: 5px;
+     margin: 10px;
+ }
+
+  .container2{
+    padding-top: 10px;
+  }
+
+  
+ .container2 h2{
+    margin: 5px;
+   }
+  
