@@ -1,0 +1,108 @@
+.nav-item{
+    padding: 0px 22px;
+ }
+
+
+
+ .btn{
+    padding:0.2rem 0.6rem;
+    margin: 2px 1px;
+}
+
+#form{
+    width: 40%;
+    display: block;
+    margin: 30px auto;
+    opacity: 0.8;
+    background-color: silver;
+    padding: 20px 20px;
+    border-radius: 7px;
+}
+
+.form-control{
+    margin: 2px;
+}
+
+.form-control:hover{
+   background-color: rgb(148, 198, 255);
+}
+
+#form .btn1{
+    display:block;
+    margin: 5px auto;
+     /* justify-content: center;
+     align-items: center; */
+     
+}
+
+
+
+.image {
+   background: url("../css/About\ bgimage.jpg")no-repeat center center/cover;
+   opacity: 0.7;
+   height: 500px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   color: white;
+}
+
+.image .para2{
+   width: 40%;
+}
+
+.image .H2 p span{
+    font-size: xx-large;
+   font-weight: bold;
+}
+
+.image .H2 p {
+    font-size: xx-large;
+    font-weight:100;
+    margin: 10px 10px;
+}
+
+#information{
+    height:fit-content;
+    display: flex;
+    background-color: rgb(203, 255, 255);
+}
+
+.section1{
+    width: 52%;
+    /* border: 2px solid black; */
+    margin: 50px 90px;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1 span{
+   font-size: xx-large;
+   font-weight: bold;
+}
+
+.section1 p{
+   font-size: xx-large;
+   font-weight:100;
+   margin: 10px 10px;
+}
+
+.section2{
+    width: 50%;
+    /* border: 2px solid black; */
+    margin: 50px 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.section2 p{
+   margin: 5px 20px;
+}
+
+.section2 h3{
+  text-align: center;
+  margin: 20px 10px;
+}
+
+
